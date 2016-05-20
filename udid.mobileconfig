@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <dict>
+            <key>URL</key>
+            <string>https://miyakeryo.github.io/mobileconfig</string>
+            <key>DeviceAttributes</key>
+            <array>
+                <string>UDID</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>Reframe, LLC.</string>
+        <key>PayloadDisplayName</key>
+        <string>Onagawa.tech UDID Service</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>A7B19D5D-E1FF-4868-B623-3D82CAF76B0B</string>
+        <key>PayloadIdentifier</key>
+        <string>tech.onagawa.profile</string>
+        <key>PayloadDescription</key>
+        <string></string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
+</plist>
